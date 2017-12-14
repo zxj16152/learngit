@@ -10,4 +10,4 @@ git is a free software 3.
 git is a distributed version control system.
 git is free software distributed under the GPL.
 git has a mutable index callde stage.
-git tracks changes.
+git tracks changes of files..
